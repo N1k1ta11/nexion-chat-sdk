@@ -1,6 +1,6 @@
 # Nexion Chat SDK
 
-Integrate a secure, encrypted chat into your crypto app in under 5 minutes. Supports NFT previews, voice messages, and in-chat transaction signing.
+Integrate secure, encrypted chat into your crypto app in under 5 minutes.
 
 ## Installation
 
@@ -16,12 +16,12 @@ import { NexionChat } from 'nexion-chat-sdk';
 // Inside your component
 <NexionChat 
   apiKey="YOUR_LICENSE_KEY"
-  theme="dark"
+  theme="dark" 
   userId="user_123"
 />
 ```
 
-## Pricing Plans
+## Pricing
 
 | Feature | Starter ($99/mo) | Growth ($299/mo) | Enterprise ($999/mo) |
 | :--- | :--- | :--- | :--- |
@@ -29,17 +29,14 @@ import { NexionChat } from 'nexion-chat-sdk';
 | Max Users | 1,000 | 10,000 | Unlimited |
 | Voice Messages | ❌ | ✅ | ✅ |
 | NFT Previews | ❌ | ✅ | ✅ |
-| Transaction Signing | ❌ | ❌ | ✅ |
 | Priority Support | ❌ | ✅ | ✅ 24/7 |
-| White-label | ❌ | ❌ | ✅ |
 
-## Getting a License Key
+## Getting Started
 
-1. Visit [https://nexion-chat.com/pricing](https://nexion-chat.com/pricing)
-2. Select your plan and complete the payment.
-3. Receive your API key via email instantly.
-4. Start integrating!
+1. Email us at `bus1nessn1k1ta1m@gmail.com` to get a license key
+2. Install the SDK: `npm install nexion-chat-sdk`
+3. Start using in your app!
 
 ## Support
 
-For help, contact us at bus1nessn1k1ta1m@gmail.com or join our Discord.
+Email: bus1nessn1k1ta1m@gmail.com
