@@ -1,0 +1,20 @@
+{
+  "name": "nexion-chat-sdk",
+  "version": "1.0.2",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'No build needed for JS'",
+    "prepare": "echo 'Package is ready'"
+  },
+  "keywords": [
+    "chat",
+    "crypto",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  }
+}
